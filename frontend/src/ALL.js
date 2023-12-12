@@ -1,12 +1,13 @@
 import Card from './screens/Card';
-import Carousele from './components/Carousel/Carousele';
-import CarouselePopulaire from './components/Carousel/Carousele_top';
 import GridExample from './components/Card';
 import gopro from './gopro.mp4';
 import { useTranslation } from 'react-i18next';
+import MyCarousel from './components/Carousel/Carousele';
+import MyCarousel2 from './components/Carousel/Carousele2';
+
 
 function ALL() {
-  const { i18n } = useTranslation();
+  const { i18n } = useTranslation()
 
   return (
     <div>
@@ -26,8 +27,8 @@ function ALL() {
           </div>
         </div>
         <Card />
-        <Carousele />
-        <CarouselePopulaire />
+        <MyCarousel/>
+        <MyCarousel2/>
         <GridExample />
       </main>
     </div>

@@ -13,8 +13,7 @@ import SignupScreen from './screens/SignupScreen';
 import PaymentMethodScreen from './screens/PaymentMethodScreen';
 import ALL from './ALL';
 import Card from './screens/Card';
-import Carousele from './components/Carousel/Carousele';
-import CarouselePopulaire from './components/Carousel/Carousele_top';
+
 import GridExample from './components/Card';
 import CGU from './screens/CGU';
 import Qui from './screens/Qui';
@@ -43,11 +42,14 @@ import NKX from './screens/NKX';
 import Olaian from './screens/Olaian';
 import Search from './components/Search';
 import ProfileScreen from './screens/ProfileScreen';
-
 import ProtectedRoute from './components/ProtectedRoute';
 import DashboardScreen from './screens/DashboardScreen';
 import AdminRoute from './components/AdminRoute';
 import { StoreProvider } from './Store';
+import MyCarousel from './components/Carousel/Carousele';
+import MyCarousel2 from './components/Carousel/Carousele2';
+
+
 
 function App() {
   return (
@@ -73,11 +75,11 @@ function App() {
               <Route path="/dakopebi" element={<NavbarComponent />} />
               <Route path="/Acceuil" element={<Acceuil />} />
               <Route path="/Card" element={<Card />} />
-              <Route path="/Carousele" element={<Carousele />} />
-              <Route
-                path="/CarouselePopulaire"
-                element={<CarouselePopulaire />}
-              />
+              <Route path="/Carousel" element={<MyCarousel />} />
+              <Route path="/Carousel2" element={<MyCarousel2 />} />
+
+
+              
 
               <Route path="/GridExample" element={<GridExample />} />
               <Route path="/Mention" element={<Mention />} />

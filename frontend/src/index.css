@@ -210,8 +210,18 @@ video {
 /*Card*/
 
 /*carousel */
-.Carousel {
+
+.echo {
+
+padding: 50px 0 50px 0;}
+.my-custom-carousel {
+
+  padding: 0 400px 0 400px;
   text-align: center;
+}
+
+.h2-carousel-populaire {
+text-align: center;
 }
 
 .Produit_Carousel {
