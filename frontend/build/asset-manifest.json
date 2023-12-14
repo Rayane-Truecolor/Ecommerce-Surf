@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2123712.css",
+    "main.js": "/static/js/main.38f48200.js",
+    "static/js/478.d95d32bd.chunk.js": "/static/js/478.d95d32bd.chunk.js",
+    "static/media/gopro.mp4": "/static/media/gopro.53fff10e74e73a76739f.mp4",
+    "static/media/femme_hiver.jpg": "/static/media/femme_hiver.9a003a8a661ca088a7e8.jpg",
+    "static/media/homme2.jpg": "/static/media/homme2.fb457d9b3d87e15b2666.jpg",
+    "static/media/image_block1.jpg": "/static/media/image_block1.a99f094992163260f772.jpg",
+    "static/media/homme1.jpg": "/static/media/homme1.d3de8b799f4fdb76d2aa.jpg",
+    "static/media/Crimes Times Six.ttf": "/static/media/Crimes Times Six.6c34310a196156f3377b.ttf",
+    "static/media/image_block4.jpg": "/static/media/image_block4.573398398bff7ce376b4.jpg",
+    "static/media/image_block3.jpg": "/static/media/image_block3.0c7b5d2c8878e7f6a44c.jpg",
+    "static/media/images_block2.jpg": "/static/media/images_block2.78255781080a815eede7.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.d2123712.css.map": "/static/css/main.d2123712.css.map",
+    "main.38f48200.js.map": "/static/js/main.38f48200.js.map",
+    "478.d95d32bd.chunk.js.map": "/static/js/478.d95d32bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2123712.css",
+    "static/js/main.38f48200.js"
+  ]
+}
